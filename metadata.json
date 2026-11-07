@@ -1,0 +1,6 @@
+{
+  "name": "Aura Launcher - Android Compose Studio",
+  "description": "Interactive simulator, visual customizer, and Kotlin Jetpack Compose exporter for the Aura Launcher Android home screen and app drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
